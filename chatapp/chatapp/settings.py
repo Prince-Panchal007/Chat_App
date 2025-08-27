@@ -126,7 +126,7 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-FIREBASE_API_KEY='AIzaSyCRQZiIu_MzKPuc5xv9ywL8YtjU0wzqgac'
+FIREBASE_API_KEY='xxx'
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
